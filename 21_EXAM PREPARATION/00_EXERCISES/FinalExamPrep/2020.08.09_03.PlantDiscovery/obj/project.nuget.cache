@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hPT20thM4qxdOpsj/0hcn29W5E9S11JgWMTCjNYcFnOcVBUIaMrjcOHAw5zBdbSQ2RqYVH+pjwkhd1ArMouWmA==",
+  "success": true,
+  "projectFilePath": "G:\\G#(LaCie - NTFS 1)\\05_ТУТОРИАЛИ\\С#\\1_FUNDAMENTALS\\21_EXAM PREPARATION\\00_EXERCISES\\FinalExamPrep\\2020.08.09_03.PlantDiscovery\\2020.08.09_03.PlantDiscovery.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Desi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Desi\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Desi\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Desi\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

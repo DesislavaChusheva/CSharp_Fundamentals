@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\04.Orders\bin\Debug\netcoreapp3.1\04.Orders.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\04.Orders\bin\Debug\netcoreapp3.1\04.Orders.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\04.Orders\bin\Debug\netcoreapp3.1\04.Orders.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\04.Orders\bin\Debug\netcoreapp3.1\04.Orders.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\04.Orders\bin\Debug\netcoreapp3.1\04.Orders.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\04.Orders\bin\Debug\netcoreapp3.1\04.Orders.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\04.Orders\obj\Debug\netcoreapp3.1\04.Orders.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\04.Orders\obj\Debug\netcoreapp3.1\04.Orders.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\04.Orders\obj\Debug\netcoreapp3.1\04.Orders.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\04.Orders\obj\Debug\netcoreapp3.1\04.Orders.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\04.Orders\obj\Debug\netcoreapp3.1\04.Orders.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\04.Orders\obj\Debug\netcoreapp3.1\04.Orders.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\04.Orders\obj\Debug\netcoreapp3.1\04.Orders.genruntimeconfig.cache

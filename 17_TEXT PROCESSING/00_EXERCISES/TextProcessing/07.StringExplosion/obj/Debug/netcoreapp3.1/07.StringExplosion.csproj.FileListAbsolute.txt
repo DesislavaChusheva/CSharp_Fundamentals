@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\07.StringExplosion\bin\Debug\netcoreapp3.1\07.StringExplosion.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\07.StringExplosion\bin\Debug\netcoreapp3.1\07.StringExplosion.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\07.StringExplosion\bin\Debug\netcoreapp3.1\07.StringExplosion.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\07.StringExplosion\bin\Debug\netcoreapp3.1\07.StringExplosion.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\07.StringExplosion\bin\Debug\netcoreapp3.1\07.StringExplosion.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\07.StringExplosion\bin\Debug\netcoreapp3.1\07.StringExplosion.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\07.StringExplosion\obj\Debug\netcoreapp3.1\07.StringExplosion.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\07.StringExplosion\obj\Debug\netcoreapp3.1\07.StringExplosion.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\07.StringExplosion\obj\Debug\netcoreapp3.1\07.StringExplosion.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\07.StringExplosion\obj\Debug\netcoreapp3.1\07.StringExplosion.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\07.StringExplosion\obj\Debug\netcoreapp3.1\07.StringExplosion.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\07.StringExplosion\obj\Debug\netcoreapp3.1\07.StringExplosion.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\07.StringExplosion\obj\Debug\netcoreapp3.1\07.StringExplosion.genruntimeconfig.cache

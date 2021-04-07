@@ -1,0 +1,13 @@
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\14_MID EXAM\0_EXAM\MidExam\02.Commands02\bin\Debug\netcoreapp3.1\02.Commands02.exe
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\14_MID EXAM\0_EXAM\MidExam\02.Commands02\bin\Debug\netcoreapp3.1\02.Commands02.deps.json
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\14_MID EXAM\0_EXAM\MidExam\02.Commands02\bin\Debug\netcoreapp3.1\02.Commands02.runtimeconfig.json
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\14_MID EXAM\0_EXAM\MidExam\02.Commands02\bin\Debug\netcoreapp3.1\02.Commands02.runtimeconfig.dev.json
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\14_MID EXAM\0_EXAM\MidExam\02.Commands02\bin\Debug\netcoreapp3.1\02.Commands02.dll
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\14_MID EXAM\0_EXAM\MidExam\02.Commands02\bin\Debug\netcoreapp3.1\02.Commands02.pdb
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\14_MID EXAM\0_EXAM\MidExam\02.Commands02\obj\Debug\netcoreapp3.1\02.Commands02.csprojAssemblyReference.cache
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\14_MID EXAM\0_EXAM\MidExam\02.Commands02\obj\Debug\netcoreapp3.1\02.Commands02.AssemblyInfoInputs.cache
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\14_MID EXAM\0_EXAM\MidExam\02.Commands02\obj\Debug\netcoreapp3.1\02.Commands02.AssemblyInfo.cs
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\14_MID EXAM\0_EXAM\MidExam\02.Commands02\obj\Debug\netcoreapp3.1\02.Commands02.csproj.CoreCompileInputs.cache
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\14_MID EXAM\0_EXAM\MidExam\02.Commands02\obj\Debug\netcoreapp3.1\02.Commands02.dll
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\14_MID EXAM\0_EXAM\MidExam\02.Commands02\obj\Debug\netcoreapp3.1\02.Commands02.pdb
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\14_MID EXAM\0_EXAM\MidExam\02.Commands02\obj\Debug\netcoreapp3.1\02.Commands02.genruntimeconfig.cache

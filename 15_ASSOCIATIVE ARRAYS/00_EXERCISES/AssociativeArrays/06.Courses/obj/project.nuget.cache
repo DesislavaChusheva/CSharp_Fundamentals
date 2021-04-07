@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6N0VcqB49gvc9bzRxwnind6fTBSVx1iuXzVC9P38DgJCARaurg2ExTu7K8p9uQ8qqES2Rd0xxYfA39IMyoMp8A==",
+  "success": true,
+  "projectFilePath": "G:\\G#(LaCie - NTFS 1)\\05_ТУТОРИАЛИ\\С#\\1_FUNDAMENTALS\\15_ASSOCIATIVE ARRAYS\\00_EXERCISES\\AssociativeArrays\\06.Courses\\06.Courses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Desi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Desi\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Desi\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Desi\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation3\02.ArrayModifier\obj\Debug\netcoreapp3.1\02.ArrayModifier.AssemblyInfoInputs.cache
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation3\02.ArrayModifier\obj\Debug\netcoreapp3.1\02.ArrayModifier.AssemblyInfo.cs
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation3\02.ArrayModifier\obj\Debug\netcoreapp3.1\02.ArrayModifier.csproj.CoreCompileInputs.cache
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation3\02.ArrayModifier\bin\Debug\netcoreapp3.1\02.ArrayModifier.exe
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation3\02.ArrayModifier\bin\Debug\netcoreapp3.1\02.ArrayModifier.deps.json
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation3\02.ArrayModifier\bin\Debug\netcoreapp3.1\02.ArrayModifier.runtimeconfig.json
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation3\02.ArrayModifier\bin\Debug\netcoreapp3.1\02.ArrayModifier.runtimeconfig.dev.json
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation3\02.ArrayModifier\bin\Debug\netcoreapp3.1\02.ArrayModifier.dll
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation3\02.ArrayModifier\bin\Debug\netcoreapp3.1\02.ArrayModifier.pdb
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation3\02.ArrayModifier\obj\Debug\netcoreapp3.1\02.ArrayModifier.dll
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation3\02.ArrayModifier\obj\Debug\netcoreapp3.1\02.ArrayModifier.pdb
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation3\02.ArrayModifier\obj\Debug\netcoreapp3.1\02.ArrayModifier.genruntimeconfig.cache

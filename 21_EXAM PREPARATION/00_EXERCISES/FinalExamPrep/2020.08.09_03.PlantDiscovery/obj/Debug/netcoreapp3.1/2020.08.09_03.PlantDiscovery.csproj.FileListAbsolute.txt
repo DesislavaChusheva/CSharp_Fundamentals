@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.08.09_03.PlantDiscovery\bin\Debug\netcoreapp3.1\2020.08.09_03.PlantDiscovery.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.08.09_03.PlantDiscovery\obj\Debug\netcoreapp3.1\2020.08.09_03.PlantDiscovery.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.08.09_03.PlantDiscovery\obj\Debug\netcoreapp3.1\2020.08.09_03.PlantDiscovery.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.08.09_03.PlantDiscovery\bin\Debug\netcoreapp3.1\2020.08.09_03.PlantDiscovery.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.08.09_03.PlantDiscovery\bin\Debug\netcoreapp3.1\2020.08.09_03.PlantDiscovery.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.08.09_03.PlantDiscovery\bin\Debug\netcoreapp3.1\2020.08.09_03.PlantDiscovery.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.08.09_03.PlantDiscovery\bin\Debug\netcoreapp3.1\2020.08.09_03.PlantDiscovery.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.08.09_03.PlantDiscovery\bin\Debug\netcoreapp3.1\2020.08.09_03.PlantDiscovery.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.08.09_03.PlantDiscovery\obj\Debug\netcoreapp3.1\2020.08.09_03.PlantDiscovery.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.08.09_03.PlantDiscovery\obj\Debug\netcoreapp3.1\2020.08.09_03.PlantDiscovery.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.08.09_03.PlantDiscovery\obj\Debug\netcoreapp3.1\2020.08.09_03.PlantDiscovery.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.08.09_03.PlantDiscovery\obj\Debug\netcoreapp3.1\2020.08.09_03.PlantDiscovery.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.08.09_03.PlantDiscovery\obj\Debug\netcoreapp3.1\2020.08.09_03.PlantDiscovery.genruntimeconfig.cache

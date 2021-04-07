@@ -1,0 +1,13 @@
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation2\01.ActivationKey\bin\Debug\netcoreapp3.1\01.ActivationKey.exe
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation2\01.ActivationKey\bin\Debug\netcoreapp3.1\01.ActivationKey.deps.json
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation2\01.ActivationKey\bin\Debug\netcoreapp3.1\01.ActivationKey.runtimeconfig.json
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation2\01.ActivationKey\bin\Debug\netcoreapp3.1\01.ActivationKey.runtimeconfig.dev.json
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation2\01.ActivationKey\bin\Debug\netcoreapp3.1\01.ActivationKey.dll
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation2\01.ActivationKey\bin\Debug\netcoreapp3.1\01.ActivationKey.pdb
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation2\01.ActivationKey\obj\Debug\netcoreapp3.1\01.ActivationKey.csprojAssemblyReference.cache
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation2\01.ActivationKey\obj\Debug\netcoreapp3.1\01.ActivationKey.AssemblyInfoInputs.cache
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation2\01.ActivationKey\obj\Debug\netcoreapp3.1\01.ActivationKey.AssemblyInfo.cs
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation2\01.ActivationKey\obj\Debug\netcoreapp3.1\01.ActivationKey.csproj.CoreCompileInputs.cache
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation2\01.ActivationKey\obj\Debug\netcoreapp3.1\01.ActivationKey.dll
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation2\01.ActivationKey\obj\Debug\netcoreapp3.1\01.ActivationKey.pdb
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation2\01.ActivationKey\obj\Debug\netcoreapp3.1\01.ActivationKey.genruntimeconfig.cache

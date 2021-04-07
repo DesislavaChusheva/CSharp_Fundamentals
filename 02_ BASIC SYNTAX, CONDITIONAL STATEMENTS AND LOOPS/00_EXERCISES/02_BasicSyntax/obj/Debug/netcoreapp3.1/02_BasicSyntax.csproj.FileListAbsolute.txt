@@ -1,0 +1,13 @@
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\02_BasicSyntax\bin\Debug\netcoreapp3.1\02_BasicSyntax.exe
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\02_BasicSyntax\bin\Debug\netcoreapp3.1\02_BasicSyntax.deps.json
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\02_BasicSyntax\bin\Debug\netcoreapp3.1\02_BasicSyntax.runtimeconfig.json
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\02_BasicSyntax\bin\Debug\netcoreapp3.1\02_BasicSyntax.runtimeconfig.dev.json
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\02_BasicSyntax\bin\Debug\netcoreapp3.1\02_BasicSyntax.dll
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\02_BasicSyntax\bin\Debug\netcoreapp3.1\02_BasicSyntax.pdb
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\02_BasicSyntax\obj\Debug\netcoreapp3.1\02_BasicSyntax.csprojAssemblyReference.cache
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\02_BasicSyntax\obj\Debug\netcoreapp3.1\02_BasicSyntax.AssemblyInfoInputs.cache
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\02_BasicSyntax\obj\Debug\netcoreapp3.1\02_BasicSyntax.AssemblyInfo.cs
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\02_BasicSyntax\obj\Debug\netcoreapp3.1\02_BasicSyntax.csproj.CoreCompileInputs.cache
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\02_BasicSyntax\obj\Debug\netcoreapp3.1\02_BasicSyntax.dll
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\02_BasicSyntax\obj\Debug\netcoreapp3.1\02_BasicSyntax.pdb
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\02_BasicSyntax\obj\Debug\netcoreapp3.1\02_BasicSyntax.genruntimeconfig.cache

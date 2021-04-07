@@ -1,0 +1,12 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\04.CaesarCipher\bin\Debug\netcoreapp3.1\04.CaesarCipher.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\04.CaesarCipher\bin\Debug\netcoreapp3.1\04.CaesarCipher.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\04.CaesarCipher\bin\Debug\netcoreapp3.1\04.CaesarCipher.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\04.CaesarCipher\bin\Debug\netcoreapp3.1\04.CaesarCipher.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\04.CaesarCipher\bin\Debug\netcoreapp3.1\04.CaesarCipher.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\04.CaesarCipher\bin\Debug\netcoreapp3.1\04.CaesarCipher.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\04.CaesarCipher\obj\Debug\netcoreapp3.1\04.CaesarCipher.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\04.CaesarCipher\obj\Debug\netcoreapp3.1\04.CaesarCipher.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\04.CaesarCipher\obj\Debug\netcoreapp3.1\04.CaesarCipher.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\04.CaesarCipher\obj\Debug\netcoreapp3.1\04.CaesarCipher.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\04.CaesarCipher\obj\Debug\netcoreapp3.1\04.CaesarCipher.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\04.CaesarCipher\obj\Debug\netcoreapp3.1\04.CaesarCipher.genruntimeconfig.cache

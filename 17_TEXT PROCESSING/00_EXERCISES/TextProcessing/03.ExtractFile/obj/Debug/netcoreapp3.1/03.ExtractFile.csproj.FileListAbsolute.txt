@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\03.ExtractFile\bin\Debug\netcoreapp3.1\03.ExtractFile.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\03.ExtractFile\obj\Debug\netcoreapp3.1\03.ExtractFile.genruntimeconfig.cache

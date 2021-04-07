@@ -1,0 +1,12 @@
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\04_PrintAndSum\bin\Debug\netcoreapp3.1\04_PrintAndSum.exe
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\04_PrintAndSum\bin\Debug\netcoreapp3.1\04_PrintAndSum.deps.json
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\04_PrintAndSum\bin\Debug\netcoreapp3.1\04_PrintAndSum.runtimeconfig.json
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\04_PrintAndSum\bin\Debug\netcoreapp3.1\04_PrintAndSum.runtimeconfig.dev.json
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\04_PrintAndSum\bin\Debug\netcoreapp3.1\04_PrintAndSum.dll
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\04_PrintAndSum\bin\Debug\netcoreapp3.1\04_PrintAndSum.pdb
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\04_PrintAndSum\obj\Debug\netcoreapp3.1\04_PrintAndSum.AssemblyInfoInputs.cache
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\04_PrintAndSum\obj\Debug\netcoreapp3.1\04_PrintAndSum.AssemblyInfo.cs
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\04_PrintAndSum\obj\Debug\netcoreapp3.1\04_PrintAndSum.csproj.CoreCompileInputs.cache
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\04_PrintAndSum\obj\Debug\netcoreapp3.1\04_PrintAndSum.dll
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\04_PrintAndSum\obj\Debug\netcoreapp3.1\04_PrintAndSum.pdb
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\04_PrintAndSum\obj\Debug\netcoreapp3.1\04_PrintAndSum.genruntimeconfig.cache

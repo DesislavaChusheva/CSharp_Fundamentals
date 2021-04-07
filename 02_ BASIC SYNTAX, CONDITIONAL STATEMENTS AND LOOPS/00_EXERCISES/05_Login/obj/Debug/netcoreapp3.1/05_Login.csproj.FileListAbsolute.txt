@@ -1,0 +1,12 @@
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\05_Login\bin\Debug\netcoreapp3.1\05_Login.exe
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\05_Login\bin\Debug\netcoreapp3.1\05_Login.deps.json
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\05_Login\bin\Debug\netcoreapp3.1\05_Login.runtimeconfig.json
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\05_Login\bin\Debug\netcoreapp3.1\05_Login.runtimeconfig.dev.json
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\05_Login\bin\Debug\netcoreapp3.1\05_Login.dll
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\05_Login\bin\Debug\netcoreapp3.1\05_Login.pdb
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\05_Login\obj\Debug\netcoreapp3.1\05_Login.AssemblyInfoInputs.cache
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\05_Login\obj\Debug\netcoreapp3.1\05_Login.AssemblyInfo.cs
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\05_Login\obj\Debug\netcoreapp3.1\05_Login.csproj.CoreCompileInputs.cache
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\05_Login\obj\Debug\netcoreapp3.1\05_Login.dll
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\05_Login\obj\Debug\netcoreapp3.1\05_Login.pdb
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\05_Login\obj\Debug\netcoreapp3.1\05_Login.genruntimeconfig.cache

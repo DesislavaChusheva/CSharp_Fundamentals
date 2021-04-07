@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\07.09.ForceBook\bin\Debug\netcoreapp3.1\07.09.ForceBook.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\07.09.ForceBook\bin\Debug\netcoreapp3.1\07.09.ForceBook.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\07.09.ForceBook\bin\Debug\netcoreapp3.1\07.09.ForceBook.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\07.09.ForceBook\bin\Debug\netcoreapp3.1\07.09.ForceBook.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\07.09.ForceBook\bin\Debug\netcoreapp3.1\07.09.ForceBook.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\07.09.ForceBook\bin\Debug\netcoreapp3.1\07.09.ForceBook.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\07.09.ForceBook\obj\Debug\netcoreapp3.1\07.09.ForceBook.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\07.09.ForceBook\obj\Debug\netcoreapp3.1\07.09.ForceBook.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\07.09.ForceBook\obj\Debug\netcoreapp3.1\07.09.ForceBook.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\07.09.ForceBook\obj\Debug\netcoreapp3.1\07.09.ForceBook.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\07.09.ForceBook\obj\Debug\netcoreapp3.1\07.09.ForceBook.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\07.09.ForceBook\obj\Debug\netcoreapp3.1\07.09.ForceBook.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\07.09.ForceBook\obj\Debug\netcoreapp3.1\07.09.ForceBook.genruntimeconfig.cache

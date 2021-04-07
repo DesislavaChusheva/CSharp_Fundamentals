@@ -1,0 +1,12 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\06.Courses\bin\Debug\netcoreapp3.1\06.Courses.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\06.Courses\obj\Debug\netcoreapp3.1\06.Courses.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\06.Courses\obj\Debug\netcoreapp3.1\06.Courses.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\06.Courses\bin\Debug\netcoreapp3.1\06.Courses.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\06.Courses\bin\Debug\netcoreapp3.1\06.Courses.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\06.Courses\bin\Debug\netcoreapp3.1\06.Courses.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\06.Courses\bin\Debug\netcoreapp3.1\06.Courses.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\06.Courses\bin\Debug\netcoreapp3.1\06.Courses.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\06.Courses\obj\Debug\netcoreapp3.1\06.Courses.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\06.Courses\obj\Debug\netcoreapp3.1\06.Courses.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\06.Courses\obj\Debug\netcoreapp3.1\06.Courses.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\06.Courses\obj\Debug\netcoreapp3.1\06.Courses.genruntimeconfig.cache

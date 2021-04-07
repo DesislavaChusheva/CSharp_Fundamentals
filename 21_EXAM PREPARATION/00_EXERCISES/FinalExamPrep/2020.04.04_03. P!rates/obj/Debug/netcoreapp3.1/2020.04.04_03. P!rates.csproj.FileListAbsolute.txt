@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.04_03. P!rates\bin\Debug\netcoreapp3.1\2020.04.04_03. P!rates.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.04_03. P!rates\bin\Debug\netcoreapp3.1\2020.04.04_03. P!rates.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.04_03. P!rates\bin\Debug\netcoreapp3.1\2020.04.04_03. P!rates.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.04_03. P!rates\bin\Debug\netcoreapp3.1\2020.04.04_03. P!rates.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.04_03. P!rates\bin\Debug\netcoreapp3.1\2020.04.04_03. P!rates.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.04_03. P!rates\bin\Debug\netcoreapp3.1\2020.04.04_03. P!rates.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.04_03. P!rates\obj\Debug\netcoreapp3.1\2020.04.04_03. P!rates.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.04_03. P!rates\obj\Debug\netcoreapp3.1\2020.04.04_03. P!rates.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.04_03. P!rates\obj\Debug\netcoreapp3.1\2020.04.04_03. P!rates.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.04_03. P!rates\obj\Debug\netcoreapp3.1\2020.04.04_03. P!rates.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.04_03. P!rates\obj\Debug\netcoreapp3.1\2020.04.04_03. P!rates.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.04_03. P!rates\obj\Debug\netcoreapp3.1\2020.04.04_03. P!rates.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.04_03. P!rates\obj\Debug\netcoreapp3.1\2020.04.04_03. P!rates.genruntimeconfig.cache

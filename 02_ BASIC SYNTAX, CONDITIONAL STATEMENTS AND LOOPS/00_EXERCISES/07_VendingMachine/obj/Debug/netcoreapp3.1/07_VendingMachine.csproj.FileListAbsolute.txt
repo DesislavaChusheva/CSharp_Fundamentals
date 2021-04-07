@@ -1,0 +1,13 @@
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\07_VendingMachine\bin\Debug\netcoreapp3.1\07_VendingMachine.exe
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\07_VendingMachine\bin\Debug\netcoreapp3.1\07_VendingMachine.deps.json
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\07_VendingMachine\bin\Debug\netcoreapp3.1\07_VendingMachine.runtimeconfig.json
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\07_VendingMachine\bin\Debug\netcoreapp3.1\07_VendingMachine.runtimeconfig.dev.json
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\07_VendingMachine\bin\Debug\netcoreapp3.1\07_VendingMachine.dll
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\07_VendingMachine\bin\Debug\netcoreapp3.1\07_VendingMachine.pdb
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\07_VendingMachine\obj\Debug\netcoreapp3.1\07_VendingMachine.csprojAssemblyReference.cache
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\07_VendingMachine\obj\Debug\netcoreapp3.1\07_VendingMachine.AssemblyInfoInputs.cache
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\07_VendingMachine\obj\Debug\netcoreapp3.1\07_VendingMachine.AssemblyInfo.cs
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\07_VendingMachine\obj\Debug\netcoreapp3.1\07_VendingMachine.csproj.CoreCompileInputs.cache
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\07_VendingMachine\obj\Debug\netcoreapp3.1\07_VendingMachine.dll
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\07_VendingMachine\obj\Debug\netcoreapp3.1\07_VendingMachine.pdb
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\07_VendingMachine\obj\Debug\netcoreapp3.1\07_VendingMachine.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\09.ME.01.WinningTicket\bin\Debug\netcoreapp3.1\09.ME.01.WinningTicket.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\09.ME.01.WinningTicket\bin\Debug\netcoreapp3.1\09.ME.01.WinningTicket.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\09.ME.01.WinningTicket\bin\Debug\netcoreapp3.1\09.ME.01.WinningTicket.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\09.ME.01.WinningTicket\bin\Debug\netcoreapp3.1\09.ME.01.WinningTicket.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\09.ME.01.WinningTicket\bin\Debug\netcoreapp3.1\09.ME.01.WinningTicket.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\09.ME.01.WinningTicket\bin\Debug\netcoreapp3.1\09.ME.01.WinningTicket.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\09.ME.01.WinningTicket\obj\Debug\netcoreapp3.1\09.ME.01.WinningTicket.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\09.ME.01.WinningTicket\obj\Debug\netcoreapp3.1\09.ME.01.WinningTicket.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\09.ME.01.WinningTicket\obj\Debug\netcoreapp3.1\09.ME.01.WinningTicket.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\09.ME.01.WinningTicket\obj\Debug\netcoreapp3.1\09.ME.01.WinningTicket.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\09.ME.01.WinningTicket\obj\Debug\netcoreapp3.1\09.ME.01.WinningTicket.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\09.ME.01.WinningTicket\obj\Debug\netcoreapp3.1\09.ME.01.WinningTicket.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\09.ME.01.WinningTicket\obj\Debug\netcoreapp3.1\09.ME.01.WinningTicket.genruntimeconfig.cache

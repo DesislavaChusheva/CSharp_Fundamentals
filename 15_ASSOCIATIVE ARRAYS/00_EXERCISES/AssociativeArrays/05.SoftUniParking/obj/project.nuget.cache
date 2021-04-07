@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ku6o6GbSbTLqfmex8HM4+uahqTPItJxvu3tqfv1Z96l952Uebd7D2Io72C7EjD696bMqZxZ3mNc54C9RWEjnjg==",
+  "success": true,
+  "projectFilePath": "G:\\G#(LaCie - NTFS 1)\\05_ТУТОРИАЛИ\\С#\\1_FUNDAMENTALS\\15_ASSOCIATIVE ARRAYS\\00_EXERCISES\\AssociativeArrays\\05.SoftUniParking\\05.SoftUniParking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Desi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Desi\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Desi\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Desi\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

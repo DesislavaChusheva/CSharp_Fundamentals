@@ -1,0 +1,13 @@
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation\01.CounterStrike\bin\Debug\netcoreapp3.1\01.CounterStrike.exe
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation\01.CounterStrike\bin\Debug\netcoreapp3.1\01.CounterStrike.deps.json
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation\01.CounterStrike\bin\Debug\netcoreapp3.1\01.CounterStrike.runtimeconfig.json
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation\01.CounterStrike\bin\Debug\netcoreapp3.1\01.CounterStrike.runtimeconfig.dev.json
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation\01.CounterStrike\bin\Debug\netcoreapp3.1\01.CounterStrike.dll
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation\01.CounterStrike\bin\Debug\netcoreapp3.1\01.CounterStrike.pdb
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation\01.CounterStrike\obj\Debug\netcoreapp3.1\01.CounterStrike.csprojAssemblyReference.cache
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation\01.CounterStrike\obj\Debug\netcoreapp3.1\01.CounterStrike.AssemblyInfoInputs.cache
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation\01.CounterStrike\obj\Debug\netcoreapp3.1\01.CounterStrike.AssemblyInfo.cs
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation\01.CounterStrike\obj\Debug\netcoreapp3.1\01.CounterStrike.csproj.CoreCompileInputs.cache
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation\01.CounterStrike\obj\Debug\netcoreapp3.1\01.CounterStrike.dll
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation\01.CounterStrike\obj\Debug\netcoreapp3.1\01.CounterStrike.pdb
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation\01.CounterStrike\obj\Debug\netcoreapp3.1\01.CounterStrike.genruntimeconfig.cache

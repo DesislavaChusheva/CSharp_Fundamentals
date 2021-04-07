@@ -1,0 +1,12 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\06.ReplaceRepeatingChars\bin\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\06.ReplaceRepeatingChars\obj\Debug\netcoreapp3.1\06.ReplaceRepeatingChars.genruntimeconfig.cache

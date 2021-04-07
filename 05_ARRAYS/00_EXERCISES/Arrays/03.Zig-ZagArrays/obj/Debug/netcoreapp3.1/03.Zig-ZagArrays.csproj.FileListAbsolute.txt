@@ -1,0 +1,13 @@
+C:\Users\Desi\Desktop\Arrays\03.Zig-ZagArrays\obj\Debug\netcoreapp3.1\03.Zig-ZagArrays.csprojAssemblyReference.cache
+C:\Users\Desi\Desktop\Arrays\03.Zig-ZagArrays\obj\Debug\netcoreapp3.1\03.Zig-ZagArrays.AssemblyInfoInputs.cache
+C:\Users\Desi\Desktop\Arrays\03.Zig-ZagArrays\obj\Debug\netcoreapp3.1\03.Zig-ZagArrays.AssemblyInfo.cs
+C:\Users\Desi\Desktop\Arrays\03.Zig-ZagArrays\obj\Debug\netcoreapp3.1\03.Zig-ZagArrays.csproj.CoreCompileInputs.cache
+C:\Users\Desi\Desktop\Arrays\03.Zig-ZagArrays\bin\Debug\netcoreapp3.1\03.Zig-ZagArrays.exe
+C:\Users\Desi\Desktop\Arrays\03.Zig-ZagArrays\bin\Debug\netcoreapp3.1\03.Zig-ZagArrays.deps.json
+C:\Users\Desi\Desktop\Arrays\03.Zig-ZagArrays\bin\Debug\netcoreapp3.1\03.Zig-ZagArrays.runtimeconfig.json
+C:\Users\Desi\Desktop\Arrays\03.Zig-ZagArrays\bin\Debug\netcoreapp3.1\03.Zig-ZagArrays.runtimeconfig.dev.json
+C:\Users\Desi\Desktop\Arrays\03.Zig-ZagArrays\bin\Debug\netcoreapp3.1\03.Zig-ZagArrays.dll
+C:\Users\Desi\Desktop\Arrays\03.Zig-ZagArrays\bin\Debug\netcoreapp3.1\03.Zig-ZagArrays.pdb
+C:\Users\Desi\Desktop\Arrays\03.Zig-ZagArrays\obj\Debug\netcoreapp3.1\03.Zig-ZagArrays.dll
+C:\Users\Desi\Desktop\Arrays\03.Zig-ZagArrays\obj\Debug\netcoreapp3.1\03.Zig-ZagArrays.pdb
+C:\Users\Desi\Desktop\Arrays\03.Zig-ZagArrays\obj\Debug\netcoreapp3.1\03.Zig-ZagArrays.genruntimeconfig.cache

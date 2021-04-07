@@ -1,0 +1,13 @@
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\02_Division\bin\Debug\netcoreapp3.1\02_Division.exe
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\02_Division\bin\Debug\netcoreapp3.1\02_Division.deps.json
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\02_Division\bin\Debug\netcoreapp3.1\02_Division.runtimeconfig.json
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\02_Division\bin\Debug\netcoreapp3.1\02_Division.runtimeconfig.dev.json
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\02_Division\bin\Debug\netcoreapp3.1\02_Division.dll
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\02_Division\bin\Debug\netcoreapp3.1\02_Division.pdb
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\02_Division\obj\Debug\netcoreapp3.1\02_Division.csprojAssemblyReference.cache
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\02_Division\obj\Debug\netcoreapp3.1\02_Division.AssemblyInfoInputs.cache
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\02_Division\obj\Debug\netcoreapp3.1\02_Division.AssemblyInfo.cs
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\02_Division\obj\Debug\netcoreapp3.1\02_Division.csproj.CoreCompileInputs.cache
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\02_Division\obj\Debug\netcoreapp3.1\02_Division.dll
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\02_Division\obj\Debug\netcoreapp3.1\02_Division.pdb
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\02_Division\obj\Debug\netcoreapp3.1\02_Division.genruntimeconfig.cache

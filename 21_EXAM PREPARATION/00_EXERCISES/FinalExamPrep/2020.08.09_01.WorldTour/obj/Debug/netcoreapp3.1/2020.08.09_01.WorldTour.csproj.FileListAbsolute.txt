@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.08.09_01.WorldTour\bin\Debug\netcoreapp3.1\2020.08.09_01.WorldTour.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.08.09_01.WorldTour\bin\Debug\netcoreapp3.1\2020.08.09_01.WorldTour.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.08.09_01.WorldTour\bin\Debug\netcoreapp3.1\2020.08.09_01.WorldTour.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.08.09_01.WorldTour\bin\Debug\netcoreapp3.1\2020.08.09_01.WorldTour.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.08.09_01.WorldTour\bin\Debug\netcoreapp3.1\2020.08.09_01.WorldTour.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.08.09_01.WorldTour\bin\Debug\netcoreapp3.1\2020.08.09_01.WorldTour.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.08.09_01.WorldTour\obj\Debug\netcoreapp3.1\2020.08.09_01.WorldTour.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.08.09_01.WorldTour\obj\Debug\netcoreapp3.1\2020.08.09_01.WorldTour.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.08.09_01.WorldTour\obj\Debug\netcoreapp3.1\2020.08.09_01.WorldTour.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.08.09_01.WorldTour\obj\Debug\netcoreapp3.1\2020.08.09_01.WorldTour.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.08.09_01.WorldTour\obj\Debug\netcoreapp3.1\2020.08.09_01.WorldTour.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.08.09_01.WorldTour\obj\Debug\netcoreapp3.1\2020.08.09_01.WorldTour.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.08.09_01.WorldTour\obj\Debug\netcoreapp3.1\2020.08.09_01.WorldTour.genruntimeconfig.cache

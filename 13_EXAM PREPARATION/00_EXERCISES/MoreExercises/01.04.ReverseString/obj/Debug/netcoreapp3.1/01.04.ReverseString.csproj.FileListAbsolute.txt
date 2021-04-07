@@ -1,0 +1,13 @@
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\01.04.ReverseString\bin\Debug\netcoreapp3.1\01.04.ReverseString.exe
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\01.04.ReverseString\bin\Debug\netcoreapp3.1\01.04.ReverseString.deps.json
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\01.04.ReverseString\bin\Debug\netcoreapp3.1\01.04.ReverseString.runtimeconfig.json
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\01.04.ReverseString\bin\Debug\netcoreapp3.1\01.04.ReverseString.runtimeconfig.dev.json
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\01.04.ReverseString\bin\Debug\netcoreapp3.1\01.04.ReverseString.dll
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\01.04.ReverseString\bin\Debug\netcoreapp3.1\01.04.ReverseString.pdb
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\01.04.ReverseString\obj\Debug\netcoreapp3.1\01.04.ReverseString.csprojAssemblyReference.cache
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\01.04.ReverseString\obj\Debug\netcoreapp3.1\01.04.ReverseString.AssemblyInfoInputs.cache
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\01.04.ReverseString\obj\Debug\netcoreapp3.1\01.04.ReverseString.AssemblyInfo.cs
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\01.04.ReverseString\obj\Debug\netcoreapp3.1\01.04.ReverseString.csproj.CoreCompileInputs.cache
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\01.04.ReverseString\obj\Debug\netcoreapp3.1\01.04.ReverseString.dll
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\01.04.ReverseString\obj\Debug\netcoreapp3.1\01.04.ReverseString.pdb
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\01.04.ReverseString\obj\Debug\netcoreapp3.1\01.04.ReverseString.genruntimeconfig.cache

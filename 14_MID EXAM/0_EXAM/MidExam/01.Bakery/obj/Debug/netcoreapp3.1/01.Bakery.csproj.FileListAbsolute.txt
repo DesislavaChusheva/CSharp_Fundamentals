@@ -1,0 +1,13 @@
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\14_MID EXAM\0_EXAM\MidExam\01.Bakery\obj\Debug\netcoreapp3.1\01.Bakery.csprojAssemblyReference.cache
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\14_MID EXAM\0_EXAM\MidExam\01.Bakery\obj\Debug\netcoreapp3.1\01.Bakery.AssemblyInfoInputs.cache
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\14_MID EXAM\0_EXAM\MidExam\01.Bakery\obj\Debug\netcoreapp3.1\01.Bakery.AssemblyInfo.cs
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\14_MID EXAM\0_EXAM\MidExam\01.Bakery\obj\Debug\netcoreapp3.1\01.Bakery.csproj.CoreCompileInputs.cache
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\14_MID EXAM\0_EXAM\MidExam\01.Bakery\bin\Debug\netcoreapp3.1\01.Bakery.exe
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\14_MID EXAM\0_EXAM\MidExam\01.Bakery\bin\Debug\netcoreapp3.1\01.Bakery.deps.json
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\14_MID EXAM\0_EXAM\MidExam\01.Bakery\bin\Debug\netcoreapp3.1\01.Bakery.runtimeconfig.json
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\14_MID EXAM\0_EXAM\MidExam\01.Bakery\bin\Debug\netcoreapp3.1\01.Bakery.runtimeconfig.dev.json
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\14_MID EXAM\0_EXAM\MidExam\01.Bakery\bin\Debug\netcoreapp3.1\01.Bakery.dll
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\14_MID EXAM\0_EXAM\MidExam\01.Bakery\bin\Debug\netcoreapp3.1\01.Bakery.pdb
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\14_MID EXAM\0_EXAM\MidExam\01.Bakery\obj\Debug\netcoreapp3.1\01.Bakery.dll
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\14_MID EXAM\0_EXAM\MidExam\01.Bakery\obj\Debug\netcoreapp3.1\01.Bakery.pdb
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\14_MID EXAM\0_EXAM\MidExam\01.Bakery\obj\Debug\netcoreapp3.1\01.Bakery.genruntimeconfig.cache

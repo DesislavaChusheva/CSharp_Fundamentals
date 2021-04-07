@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "s3e89SjP7wMxbKEE6WWtJTTtSu1IUwER4tlCqsfVs7I7TuUKAe7KY9S3JrynH6UaoRPqUUDy9zYruMWrH4db5w==",
+  "success": true,
+  "projectFilePath": "G:\\G#(LaCie - NTFS 1)\\05_ТУТОРИАЛИ\\С#\\1_FUNDAMENTALS\\21_EXAM PREPARATION\\00_EXERCISES\\FinalExamPrep\\2020.08.15_02.AdAstra\\2020.08.15_02.AdAstra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Desi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Desi\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Desi\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Desi\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

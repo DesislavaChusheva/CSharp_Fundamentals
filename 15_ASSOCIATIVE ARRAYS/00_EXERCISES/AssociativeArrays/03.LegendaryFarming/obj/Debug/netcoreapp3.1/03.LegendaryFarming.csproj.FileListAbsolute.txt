@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\03.LegendaryFarming\bin\Debug\netcoreapp3.1\03.LegendaryFarming.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\03.LegendaryFarming\bin\Debug\netcoreapp3.1\03.LegendaryFarming.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\03.LegendaryFarming\bin\Debug\netcoreapp3.1\03.LegendaryFarming.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\03.LegendaryFarming\bin\Debug\netcoreapp3.1\03.LegendaryFarming.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\03.LegendaryFarming\bin\Debug\netcoreapp3.1\03.LegendaryFarming.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\03.LegendaryFarming\bin\Debug\netcoreapp3.1\03.LegendaryFarming.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\03.LegendaryFarming\obj\Debug\netcoreapp3.1\03.LegendaryFarming.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\03.LegendaryFarming\obj\Debug\netcoreapp3.1\03.LegendaryFarming.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\03.LegendaryFarming\obj\Debug\netcoreapp3.1\03.LegendaryFarming.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\03.LegendaryFarming\obj\Debug\netcoreapp3.1\03.LegendaryFarming.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\03.LegendaryFarming\obj\Debug\netcoreapp3.1\03.LegendaryFarming.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\03.LegendaryFarming\obj\Debug\netcoreapp3.1\03.LegendaryFarming.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\03.LegendaryFarming\obj\Debug\netcoreapp3.1\03.LegendaryFarming.genruntimeconfig.cache

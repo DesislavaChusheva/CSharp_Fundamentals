@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\05.MultiplyBigNumber\bin\Debug\netcoreapp3.1\05.MultiplyBigNumber.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\05.MultiplyBigNumber\bin\Debug\netcoreapp3.1\05.MultiplyBigNumber.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\05.MultiplyBigNumber\bin\Debug\netcoreapp3.1\05.MultiplyBigNumber.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\05.MultiplyBigNumber\bin\Debug\netcoreapp3.1\05.MultiplyBigNumber.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\05.MultiplyBigNumber\bin\Debug\netcoreapp3.1\05.MultiplyBigNumber.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\05.MultiplyBigNumber\bin\Debug\netcoreapp3.1\05.MultiplyBigNumber.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\05.MultiplyBigNumber\obj\Debug\netcoreapp3.1\05.MultiplyBigNumber.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\05.MultiplyBigNumber\obj\Debug\netcoreapp3.1\05.MultiplyBigNumber.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\05.MultiplyBigNumber\obj\Debug\netcoreapp3.1\05.MultiplyBigNumber.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\05.MultiplyBigNumber\obj\Debug\netcoreapp3.1\05.MultiplyBigNumber.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\05.MultiplyBigNumber\obj\Debug\netcoreapp3.1\05.MultiplyBigNumber.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\05.MultiplyBigNumber\obj\Debug\netcoreapp3.1\05.MultiplyBigNumber.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\17_TEXT PROCESSING\00_EXERCISES\TextProcessing\05.MultiplyBigNumber\obj\Debug\netcoreapp3.1\05.MultiplyBigNumber.genruntimeconfig.cache

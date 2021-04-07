@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\01.CountCharsInAString\bin\Debug\netcoreapp3.1\01.CountCharsInAString.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\01.CountCharsInAString\bin\Debug\netcoreapp3.1\01.CountCharsInAString.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\01.CountCharsInAString\bin\Debug\netcoreapp3.1\01.CountCharsInAString.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\01.CountCharsInAString\bin\Debug\netcoreapp3.1\01.CountCharsInAString.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\01.CountCharsInAString\bin\Debug\netcoreapp3.1\01.CountCharsInAString.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\01.CountCharsInAString\bin\Debug\netcoreapp3.1\01.CountCharsInAString.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\01.CountCharsInAString\obj\Debug\netcoreapp3.1\01.CountCharsInAString.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\01.CountCharsInAString\obj\Debug\netcoreapp3.1\01.CountCharsInAString.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\01.CountCharsInAString\obj\Debug\netcoreapp3.1\01.CountCharsInAString.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\01.CountCharsInAString\obj\Debug\netcoreapp3.1\01.CountCharsInAString.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\01.CountCharsInAString\obj\Debug\netcoreapp3.1\01.CountCharsInAString.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\01.CountCharsInAString\obj\Debug\netcoreapp3.1\01.CountCharsInAString.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\15_ASSOCIATIVE ARRAYS\00_EXERCISES\AssociativeArrays\01.CountCharsInAString\obj\Debug\netcoreapp3.1\01.CountCharsInAString.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.10_02.MirrorWords\bin\Debug\netcoreapp3.1\2020.04.10_02.MirrorWords.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.10_02.MirrorWords\bin\Debug\netcoreapp3.1\2020.04.10_02.MirrorWords.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.10_02.MirrorWords\bin\Debug\netcoreapp3.1\2020.04.10_02.MirrorWords.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.10_02.MirrorWords\bin\Debug\netcoreapp3.1\2020.04.10_02.MirrorWords.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.10_02.MirrorWords\bin\Debug\netcoreapp3.1\2020.04.10_02.MirrorWords.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.10_02.MirrorWords\bin\Debug\netcoreapp3.1\2020.04.10_02.MirrorWords.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.10_02.MirrorWords\obj\Debug\netcoreapp3.1\2020.04.10_02.MirrorWords.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.10_02.MirrorWords\obj\Debug\netcoreapp3.1\2020.04.10_02.MirrorWords.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.10_02.MirrorWords\obj\Debug\netcoreapp3.1\2020.04.10_02.MirrorWords.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.10_02.MirrorWords\obj\Debug\netcoreapp3.1\2020.04.10_02.MirrorWords.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.10_02.MirrorWords\obj\Debug\netcoreapp3.1\2020.04.10_02.MirrorWords.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.10_02.MirrorWords\obj\Debug\netcoreapp3.1\2020.04.10_02.MirrorWords.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.10_02.MirrorWords\obj\Debug\netcoreapp3.1\2020.04.10_02.MirrorWords.genruntimeconfig.cache

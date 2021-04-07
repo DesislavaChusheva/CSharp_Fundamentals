@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.04_01. Activation Keys\bin\Debug\netcoreapp3.1\2020.04.04_01. Activation Keys.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.04_01. Activation Keys\bin\Debug\netcoreapp3.1\2020.04.04_01. Activation Keys.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.04_01. Activation Keys\bin\Debug\netcoreapp3.1\2020.04.04_01. Activation Keys.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.04_01. Activation Keys\bin\Debug\netcoreapp3.1\2020.04.04_01. Activation Keys.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.04_01. Activation Keys\bin\Debug\netcoreapp3.1\2020.04.04_01. Activation Keys.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.04_01. Activation Keys\bin\Debug\netcoreapp3.1\2020.04.04_01. Activation Keys.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.04_01. Activation Keys\obj\Debug\netcoreapp3.1\2020.04.04_01. Activation Keys.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.04_01. Activation Keys\obj\Debug\netcoreapp3.1\2020.04.04_01. Activation Keys.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.04_01. Activation Keys\obj\Debug\netcoreapp3.1\2020.04.04_01. Activation Keys.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.04_01. Activation Keys\obj\Debug\netcoreapp3.1\2020.04.04_01. Activation Keys.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.04_01. Activation Keys\obj\Debug\netcoreapp3.1\2020.04.04_01. Activation Keys.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.04_01. Activation Keys\obj\Debug\netcoreapp3.1\2020.04.04_01. Activation Keys.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.04_01. Activation Keys\obj\Debug\netcoreapp3.1\2020.04.04_01. Activation Keys.genruntimeconfig.cache

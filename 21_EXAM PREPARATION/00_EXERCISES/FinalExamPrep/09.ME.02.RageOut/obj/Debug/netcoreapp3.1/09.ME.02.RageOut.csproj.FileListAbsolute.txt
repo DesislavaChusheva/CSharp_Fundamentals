@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\09.ME.02.RageOut\bin\Debug\netcoreapp3.1\09.ME.02.RageOut.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\09.ME.02.RageOut\bin\Debug\netcoreapp3.1\09.ME.02.RageOut.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\09.ME.02.RageOut\bin\Debug\netcoreapp3.1\09.ME.02.RageOut.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\09.ME.02.RageOut\bin\Debug\netcoreapp3.1\09.ME.02.RageOut.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\09.ME.02.RageOut\bin\Debug\netcoreapp3.1\09.ME.02.RageOut.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\09.ME.02.RageOut\bin\Debug\netcoreapp3.1\09.ME.02.RageOut.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\09.ME.02.RageOut\obj\Debug\netcoreapp3.1\09.ME.02.RageOut.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\09.ME.02.RageOut\obj\Debug\netcoreapp3.1\09.ME.02.RageOut.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\09.ME.02.RageOut\obj\Debug\netcoreapp3.1\09.ME.02.RageOut.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\09.ME.02.RageOut\obj\Debug\netcoreapp3.1\09.ME.02.RageOut.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\09.ME.02.RageOut\obj\Debug\netcoreapp3.1\09.ME.02.RageOut.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\09.ME.02.RageOut\obj\Debug\netcoreapp3.1\09.ME.02.RageOut.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\09.ME.02.RageOut\obj\Debug\netcoreapp3.1\09.ME.02.RageOut.genruntimeconfig.cache

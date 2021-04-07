@@ -1,0 +1,13 @@
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\01.01.SortNumber\bin\Debug\netcoreapp3.1\01.01.SortNumber.exe
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\01.01.SortNumber\bin\Debug\netcoreapp3.1\01.01.SortNumber.deps.json
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\01.01.SortNumber\bin\Debug\netcoreapp3.1\01.01.SortNumber.runtimeconfig.json
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\01.01.SortNumber\bin\Debug\netcoreapp3.1\01.01.SortNumber.runtimeconfig.dev.json
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\01.01.SortNumber\bin\Debug\netcoreapp3.1\01.01.SortNumber.dll
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\01.01.SortNumber\bin\Debug\netcoreapp3.1\01.01.SortNumber.pdb
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\01.01.SortNumber\obj\Debug\netcoreapp3.1\01.01.SortNumber.csprojAssemblyReference.cache
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\01.01.SortNumber\obj\Debug\netcoreapp3.1\01.01.SortNumber.AssemblyInfoInputs.cache
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\01.01.SortNumber\obj\Debug\netcoreapp3.1\01.01.SortNumber.AssemblyInfo.cs
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\01.01.SortNumber\obj\Debug\netcoreapp3.1\01.01.SortNumber.csproj.CoreCompileInputs.cache
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\01.01.SortNumber\obj\Debug\netcoreapp3.1\01.01.SortNumber.dll
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\01.01.SortNumber\obj\Debug\netcoreapp3.1\01.01.SortNumber.pdb
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\01.01.SortNumber\obj\Debug\netcoreapp3.1\01.01.SortNumber.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation3\03.Numbers\bin\Debug\netcoreapp3.1\03.Numbers.exe
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation3\03.Numbers\bin\Debug\netcoreapp3.1\03.Numbers.deps.json
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation3\03.Numbers\bin\Debug\netcoreapp3.1\03.Numbers.runtimeconfig.json
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation3\03.Numbers\bin\Debug\netcoreapp3.1\03.Numbers.runtimeconfig.dev.json
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation3\03.Numbers\bin\Debug\netcoreapp3.1\03.Numbers.dll
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation3\03.Numbers\bin\Debug\netcoreapp3.1\03.Numbers.pdb
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation3\03.Numbers\obj\Debug\netcoreapp3.1\03.Numbers.csprojAssemblyReference.cache
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation3\03.Numbers\obj\Debug\netcoreapp3.1\03.Numbers.AssemblyInfoInputs.cache
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation3\03.Numbers\obj\Debug\netcoreapp3.1\03.Numbers.AssemblyInfo.cs
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation3\03.Numbers\obj\Debug\netcoreapp3.1\03.Numbers.csproj.CoreCompileInputs.cache
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation3\03.Numbers\obj\Debug\netcoreapp3.1\03.Numbers.dll
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation3\03.Numbers\obj\Debug\netcoreapp3.1\03.Numbers.pdb
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation3\03.Numbers\obj\Debug\netcoreapp3.1\03.Numbers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\14_MID EXAM\0_EXAM\MidExam\03.Messaging\bin\Debug\netcoreapp3.1\03.Messaging.exe
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\14_MID EXAM\0_EXAM\MidExam\03.Messaging\bin\Debug\netcoreapp3.1\03.Messaging.deps.json
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\14_MID EXAM\0_EXAM\MidExam\03.Messaging\bin\Debug\netcoreapp3.1\03.Messaging.runtimeconfig.json
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\14_MID EXAM\0_EXAM\MidExam\03.Messaging\bin\Debug\netcoreapp3.1\03.Messaging.runtimeconfig.dev.json
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\14_MID EXAM\0_EXAM\MidExam\03.Messaging\bin\Debug\netcoreapp3.1\03.Messaging.dll
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\14_MID EXAM\0_EXAM\MidExam\03.Messaging\bin\Debug\netcoreapp3.1\03.Messaging.pdb
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\14_MID EXAM\0_EXAM\MidExam\03.Messaging\obj\Debug\netcoreapp3.1\03.Messaging.csprojAssemblyReference.cache
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\14_MID EXAM\0_EXAM\MidExam\03.Messaging\obj\Debug\netcoreapp3.1\03.Messaging.AssemblyInfoInputs.cache
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\14_MID EXAM\0_EXAM\MidExam\03.Messaging\obj\Debug\netcoreapp3.1\03.Messaging.AssemblyInfo.cs
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\14_MID EXAM\0_EXAM\MidExam\03.Messaging\obj\Debug\netcoreapp3.1\03.Messaging.csproj.CoreCompileInputs.cache
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\14_MID EXAM\0_EXAM\MidExam\03.Messaging\obj\Debug\netcoreapp3.1\03.Messaging.dll
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\14_MID EXAM\0_EXAM\MidExam\03.Messaging\obj\Debug\netcoreapp3.1\03.Messaging.pdb
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\14_MID EXAM\0_EXAM\MidExam\03.Messaging\obj\Debug\netcoreapp3.1\03.Messaging.genruntimeconfig.cache

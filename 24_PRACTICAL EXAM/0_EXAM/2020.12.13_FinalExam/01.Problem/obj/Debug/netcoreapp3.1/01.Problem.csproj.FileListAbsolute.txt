@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\24_PRACTICAL EXAM\0_EXAM\2020.12.13_FinalExam\01.Problem\bin\Debug\netcoreapp3.1\01.Problem.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\24_PRACTICAL EXAM\0_EXAM\2020.12.13_FinalExam\01.Problem\bin\Debug\netcoreapp3.1\01.Problem.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\24_PRACTICAL EXAM\0_EXAM\2020.12.13_FinalExam\01.Problem\bin\Debug\netcoreapp3.1\01.Problem.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\24_PRACTICAL EXAM\0_EXAM\2020.12.13_FinalExam\01.Problem\bin\Debug\netcoreapp3.1\01.Problem.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\24_PRACTICAL EXAM\0_EXAM\2020.12.13_FinalExam\01.Problem\bin\Debug\netcoreapp3.1\01.Problem.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\24_PRACTICAL EXAM\0_EXAM\2020.12.13_FinalExam\01.Problem\bin\Debug\netcoreapp3.1\01.Problem.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\24_PRACTICAL EXAM\0_EXAM\2020.12.13_FinalExam\01.Problem\obj\Debug\netcoreapp3.1\01.Problem.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\24_PRACTICAL EXAM\0_EXAM\2020.12.13_FinalExam\01.Problem\obj\Debug\netcoreapp3.1\01.Problem.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\24_PRACTICAL EXAM\0_EXAM\2020.12.13_FinalExam\01.Problem\obj\Debug\netcoreapp3.1\01.Problem.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\24_PRACTICAL EXAM\0_EXAM\2020.12.13_FinalExam\01.Problem\obj\Debug\netcoreapp3.1\01.Problem.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\24_PRACTICAL EXAM\0_EXAM\2020.12.13_FinalExam\01.Problem\obj\Debug\netcoreapp3.1\01.Problem.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\24_PRACTICAL EXAM\0_EXAM\2020.12.13_FinalExam\01.Problem\obj\Debug\netcoreapp3.1\01.Problem.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\24_PRACTICAL EXAM\0_EXAM\2020.12.13_FinalExam\01.Problem\obj\Debug\netcoreapp3.1\01.Problem.genruntimeconfig.cache

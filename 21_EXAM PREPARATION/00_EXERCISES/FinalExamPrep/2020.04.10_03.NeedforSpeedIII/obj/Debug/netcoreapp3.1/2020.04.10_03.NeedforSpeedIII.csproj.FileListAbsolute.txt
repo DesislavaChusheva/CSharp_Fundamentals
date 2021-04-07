@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.10_03.NeedforSpeedIII\bin\Debug\netcoreapp3.1\2020.04.10_03.NeedforSpeedIII.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.10_03.NeedforSpeedIII\bin\Debug\netcoreapp3.1\2020.04.10_03.NeedforSpeedIII.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.10_03.NeedforSpeedIII\bin\Debug\netcoreapp3.1\2020.04.10_03.NeedforSpeedIII.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.10_03.NeedforSpeedIII\bin\Debug\netcoreapp3.1\2020.04.10_03.NeedforSpeedIII.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.10_03.NeedforSpeedIII\bin\Debug\netcoreapp3.1\2020.04.10_03.NeedforSpeedIII.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.10_03.NeedforSpeedIII\bin\Debug\netcoreapp3.1\2020.04.10_03.NeedforSpeedIII.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.10_03.NeedforSpeedIII\obj\Debug\netcoreapp3.1\2020.04.10_03.NeedforSpeedIII.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.10_03.NeedforSpeedIII\obj\Debug\netcoreapp3.1\2020.04.10_03.NeedforSpeedIII.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.10_03.NeedforSpeedIII\obj\Debug\netcoreapp3.1\2020.04.10_03.NeedforSpeedIII.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.10_03.NeedforSpeedIII\obj\Debug\netcoreapp3.1\2020.04.10_03.NeedforSpeedIII.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.10_03.NeedforSpeedIII\obj\Debug\netcoreapp3.1\2020.04.10_03.NeedforSpeedIII.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.10_03.NeedforSpeedIII\obj\Debug\netcoreapp3.1\2020.04.10_03.NeedforSpeedIII.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\21_EXAM PREPARATION\00_EXERCISES\FinalExamPrep\2020.04.10_03.NeedforSpeedIII\obj\Debug\netcoreapp3.1\2020.04.10_03.NeedforSpeedIII.genruntimeconfig.cache

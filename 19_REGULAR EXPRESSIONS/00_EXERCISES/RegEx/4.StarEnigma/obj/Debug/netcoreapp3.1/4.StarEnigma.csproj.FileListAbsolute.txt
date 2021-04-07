@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\19_REGULAR EXPRESSIONS\00_EXERCISES\RegEx\4.StarEnigma\bin\Debug\netcoreapp3.1\4.StarEnigma.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\19_REGULAR EXPRESSIONS\00_EXERCISES\RegEx\4.StarEnigma\bin\Debug\netcoreapp3.1\4.StarEnigma.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\19_REGULAR EXPRESSIONS\00_EXERCISES\RegEx\4.StarEnigma\bin\Debug\netcoreapp3.1\4.StarEnigma.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\19_REGULAR EXPRESSIONS\00_EXERCISES\RegEx\4.StarEnigma\bin\Debug\netcoreapp3.1\4.StarEnigma.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\19_REGULAR EXPRESSIONS\00_EXERCISES\RegEx\4.StarEnigma\bin\Debug\netcoreapp3.1\4.StarEnigma.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\19_REGULAR EXPRESSIONS\00_EXERCISES\RegEx\4.StarEnigma\bin\Debug\netcoreapp3.1\4.StarEnigma.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\19_REGULAR EXPRESSIONS\00_EXERCISES\RegEx\4.StarEnigma\obj\Debug\netcoreapp3.1\4.StarEnigma.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\19_REGULAR EXPRESSIONS\00_EXERCISES\RegEx\4.StarEnigma\obj\Debug\netcoreapp3.1\4.StarEnigma.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\19_REGULAR EXPRESSIONS\00_EXERCISES\RegEx\4.StarEnigma\obj\Debug\netcoreapp3.1\4.StarEnigma.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\19_REGULAR EXPRESSIONS\00_EXERCISES\RegEx\4.StarEnigma\obj\Debug\netcoreapp3.1\4.StarEnigma.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\19_REGULAR EXPRESSIONS\00_EXERCISES\RegEx\4.StarEnigma\obj\Debug\netcoreapp3.1\4.StarEnigma.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\19_REGULAR EXPRESSIONS\00_EXERCISES\RegEx\4.StarEnigma\obj\Debug\netcoreapp3.1\4.StarEnigma.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\19_REGULAR EXPRESSIONS\00_EXERCISES\RegEx\4.StarEnigma\obj\Debug\netcoreapp3.1\4.StarEnigma.genruntimeconfig.cache

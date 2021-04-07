@@ -1,0 +1,13 @@
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\19_REGULAR EXPRESSIONS\00_EXERCISES\RegEx\02.Race\bin\Debug\netcoreapp3.1\02.Race.exe
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\19_REGULAR EXPRESSIONS\00_EXERCISES\RegEx\02.Race\bin\Debug\netcoreapp3.1\02.Race.deps.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\19_REGULAR EXPRESSIONS\00_EXERCISES\RegEx\02.Race\bin\Debug\netcoreapp3.1\02.Race.runtimeconfig.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\19_REGULAR EXPRESSIONS\00_EXERCISES\RegEx\02.Race\bin\Debug\netcoreapp3.1\02.Race.runtimeconfig.dev.json
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\19_REGULAR EXPRESSIONS\00_EXERCISES\RegEx\02.Race\bin\Debug\netcoreapp3.1\02.Race.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\19_REGULAR EXPRESSIONS\00_EXERCISES\RegEx\02.Race\bin\Debug\netcoreapp3.1\02.Race.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\19_REGULAR EXPRESSIONS\00_EXERCISES\RegEx\02.Race\obj\Debug\netcoreapp3.1\02.Race.csprojAssemblyReference.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\19_REGULAR EXPRESSIONS\00_EXERCISES\RegEx\02.Race\obj\Debug\netcoreapp3.1\02.Race.AssemblyInfoInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\19_REGULAR EXPRESSIONS\00_EXERCISES\RegEx\02.Race\obj\Debug\netcoreapp3.1\02.Race.AssemblyInfo.cs
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\19_REGULAR EXPRESSIONS\00_EXERCISES\RegEx\02.Race\obj\Debug\netcoreapp3.1\02.Race.csproj.CoreCompileInputs.cache
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\19_REGULAR EXPRESSIONS\00_EXERCISES\RegEx\02.Race\obj\Debug\netcoreapp3.1\02.Race.dll
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\19_REGULAR EXPRESSIONS\00_EXERCISES\RegEx\02.Race\obj\Debug\netcoreapp3.1\02.Race.pdb
+G:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\19_REGULAR EXPRESSIONS\00_EXERCISES\RegEx\02.Race\obj\Debug\netcoreapp3.1\02.Race.genruntimeconfig.cache

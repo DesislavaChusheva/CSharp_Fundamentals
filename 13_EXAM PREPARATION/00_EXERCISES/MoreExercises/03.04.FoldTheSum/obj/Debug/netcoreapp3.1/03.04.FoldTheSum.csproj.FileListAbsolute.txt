@@ -1,0 +1,13 @@
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\03.04.FoldTheSum\bin\Debug\netcoreapp3.1\03.04.FoldTheSum.exe
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\03.04.FoldTheSum\bin\Debug\netcoreapp3.1\03.04.FoldTheSum.deps.json
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\03.04.FoldTheSum\bin\Debug\netcoreapp3.1\03.04.FoldTheSum.runtimeconfig.json
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\03.04.FoldTheSum\bin\Debug\netcoreapp3.1\03.04.FoldTheSum.runtimeconfig.dev.json
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\03.04.FoldTheSum\bin\Debug\netcoreapp3.1\03.04.FoldTheSum.dll
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\03.04.FoldTheSum\bin\Debug\netcoreapp3.1\03.04.FoldTheSum.pdb
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\03.04.FoldTheSum\obj\Debug\netcoreapp3.1\03.04.FoldTheSum.csprojAssemblyReference.cache
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\03.04.FoldTheSum\obj\Debug\netcoreapp3.1\03.04.FoldTheSum.AssemblyInfoInputs.cache
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\03.04.FoldTheSum\obj\Debug\netcoreapp3.1\03.04.FoldTheSum.AssemblyInfo.cs
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\03.04.FoldTheSum\obj\Debug\netcoreapp3.1\03.04.FoldTheSum.csproj.CoreCompileInputs.cache
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\03.04.FoldTheSum\obj\Debug\netcoreapp3.1\03.04.FoldTheSum.dll
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\03.04.FoldTheSum\obj\Debug\netcoreapp3.1\03.04.FoldTheSum.pdb
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\03.04.FoldTheSum\obj\Debug\netcoreapp3.1\03.04.FoldTheSum.genruntimeconfig.cache

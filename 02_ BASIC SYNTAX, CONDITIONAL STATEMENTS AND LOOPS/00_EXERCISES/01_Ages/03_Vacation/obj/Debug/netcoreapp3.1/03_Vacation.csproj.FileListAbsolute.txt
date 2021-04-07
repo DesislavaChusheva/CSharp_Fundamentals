@@ -1,0 +1,13 @@
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\03_Vacation\bin\Debug\netcoreapp3.1\03_Vacation.exe
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\03_Vacation\bin\Debug\netcoreapp3.1\03_Vacation.deps.json
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\03_Vacation\bin\Debug\netcoreapp3.1\03_Vacation.runtimeconfig.json
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\03_Vacation\bin\Debug\netcoreapp3.1\03_Vacation.runtimeconfig.dev.json
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\03_Vacation\bin\Debug\netcoreapp3.1\03_Vacation.dll
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\03_Vacation\bin\Debug\netcoreapp3.1\03_Vacation.pdb
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\03_Vacation\obj\Debug\netcoreapp3.1\03_Vacation.csprojAssemblyReference.cache
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\03_Vacation\obj\Debug\netcoreapp3.1\03_Vacation.AssemblyInfoInputs.cache
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\03_Vacation\obj\Debug\netcoreapp3.1\03_Vacation.AssemblyInfo.cs
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\03_Vacation\obj\Debug\netcoreapp3.1\03_Vacation.csproj.CoreCompileInputs.cache
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\03_Vacation\obj\Debug\netcoreapp3.1\03_Vacation.dll
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\03_Vacation\obj\Debug\netcoreapp3.1\03_Vacation.pdb
+G:\12_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\02_ BASIC SYNTAX, CONDITIONAL STATEMENTS AND LOOPS\00_EXERCISES\01_Ages\03_Vacation\obj\Debug\netcoreapp3.1\03_Vacation.genruntimeconfig.cache

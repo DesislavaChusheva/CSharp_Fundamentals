@@ -1,0 +1,13 @@
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation3\01.SoftUniReception\bin\Debug\netcoreapp3.1\01.SoftUniReception.exe
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation3\01.SoftUniReception\bin\Debug\netcoreapp3.1\01.SoftUniReception.deps.json
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation3\01.SoftUniReception\bin\Debug\netcoreapp3.1\01.SoftUniReception.runtimeconfig.json
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation3\01.SoftUniReception\bin\Debug\netcoreapp3.1\01.SoftUniReception.runtimeconfig.dev.json
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation3\01.SoftUniReception\bin\Debug\netcoreapp3.1\01.SoftUniReception.dll
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation3\01.SoftUniReception\bin\Debug\netcoreapp3.1\01.SoftUniReception.pdb
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation3\01.SoftUniReception\obj\Debug\netcoreapp3.1\01.SoftUniReception.csprojAssemblyReference.cache
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation3\01.SoftUniReception\obj\Debug\netcoreapp3.1\01.SoftUniReception.AssemblyInfoInputs.cache
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation3\01.SoftUniReception\obj\Debug\netcoreapp3.1\01.SoftUniReception.AssemblyInfo.cs
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation3\01.SoftUniReception\obj\Debug\netcoreapp3.1\01.SoftUniReception.csproj.CoreCompileInputs.cache
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation3\01.SoftUniReception\obj\Debug\netcoreapp3.1\01.SoftUniReception.dll
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation3\01.SoftUniReception\obj\Debug\netcoreapp3.1\01.SoftUniReception.pdb
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MidExamPreparation3\01.SoftUniReception\obj\Debug\netcoreapp3.1\01.SoftUniReception.genruntimeconfig.cache

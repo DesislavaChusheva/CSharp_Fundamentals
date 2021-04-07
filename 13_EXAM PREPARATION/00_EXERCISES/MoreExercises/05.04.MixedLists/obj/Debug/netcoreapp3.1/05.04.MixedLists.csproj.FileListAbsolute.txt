@@ -1,0 +1,13 @@
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\05.04.MixedLists\bin\Debug\netcoreapp3.1\05.04.MixedLists.exe
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\05.04.MixedLists\bin\Debug\netcoreapp3.1\05.04.MixedLists.deps.json
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\05.04.MixedLists\bin\Debug\netcoreapp3.1\05.04.MixedLists.runtimeconfig.json
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\05.04.MixedLists\bin\Debug\netcoreapp3.1\05.04.MixedLists.runtimeconfig.dev.json
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\05.04.MixedLists\bin\Debug\netcoreapp3.1\05.04.MixedLists.dll
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\05.04.MixedLists\bin\Debug\netcoreapp3.1\05.04.MixedLists.pdb
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\05.04.MixedLists\obj\Debug\netcoreapp3.1\05.04.MixedLists.AssemblyInfoInputs.cache
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\05.04.MixedLists\obj\Debug\netcoreapp3.1\05.04.MixedLists.AssemblyInfo.cs
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\05.04.MixedLists\obj\Debug\netcoreapp3.1\05.04.MixedLists.csproj.CoreCompileInputs.cache
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\05.04.MixedLists\obj\Debug\netcoreapp3.1\05.04.MixedLists.dll
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\05.04.MixedLists\obj\Debug\netcoreapp3.1\05.04.MixedLists.pdb
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\05.04.MixedLists\obj\Debug\netcoreapp3.1\05.04.MixedLists.genruntimeconfig.cache
+E:\G#(LaCie - NTFS 1)\05_ТУТОРИАЛИ\С#\1_FUNDAMENTALS\13_EXAM PREPARATION\00_EXERCISES\MoreExercises\05.04.MixedLists\obj\Debug\netcoreapp3.1\05.04.MixedLists.csprojAssemblyReference.cache
